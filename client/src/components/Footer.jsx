@@ -10,9 +10,7 @@ const Footer = () => {
         <div className="flex flex-col mb-10">
           <img src={assets.logo} alt="" className="w-16 sm:w-20" />
           <p className="w-96 text-start text-gray-600 text-sm mt-4">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Perspiciatis fugiat doloremque sed fuga ipsa aliquam ratione
-            adipisci ex numquam voluptatibus deserunt alias sint nostrum
+        
           </p>
         </div>
         <div>
